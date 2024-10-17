@@ -1,0 +1,8 @@
+C:\Users\nathali\OneDrive\Progra semana 3\ejercicioSem3\ejercicioSem3\bin\Debug\ejercicioSem3.exe.config
+C:\Users\nathali\OneDrive\Progra semana 3\ejercicioSem3\ejercicioSem3\bin\Debug\ejercicioSem3.exe
+C:\Users\nathali\OneDrive\Progra semana 3\ejercicioSem3\ejercicioSem3\bin\Debug\ejercicioSem3.pdb
+C:\Users\nathali\OneDrive\Progra semana 3\ejercicioSem3\ejercicioSem3\obj\Debug\ejercicioSem3.csproj.AssemblyReference.cache
+C:\Users\nathali\OneDrive\Progra semana 3\ejercicioSem3\ejercicioSem3\obj\Debug\ejercicioSem3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nathali\OneDrive\Progra semana 3\ejercicioSem3\ejercicioSem3\obj\Debug\ejercicioSem3.csproj.CoreCompileInputs.cache
+C:\Users\nathali\OneDrive\Progra semana 3\ejercicioSem3\ejercicioSem3\obj\Debug\ejercicioSem3.exe
+C:\Users\nathali\OneDrive\Progra semana 3\ejercicioSem3\ejercicioSem3\obj\Debug\ejercicioSem3.pdb
